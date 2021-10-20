@@ -1,0 +1,30 @@
+.product {
+  display: flex;
+  border-bottom: 1px solid lightgray;
+}
+.product-detail {
+  margin-left: 20px;
+  margin-right: 5px;
+}
+.product-name {
+  color: blue;
+}
+.dollar {
+  color: red;
+  font-weight: 900;
+}
+.btn-regular {
+  background-color: goldenrod;
+
+  width: 150px;
+  height: 30px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.btn-text {
+  font-weight: 700;
+}
+.icon-color {
+  color: gold;
+}

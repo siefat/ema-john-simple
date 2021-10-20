@@ -1,0 +1,11 @@
+.cart-container {
+  margin-left: 5px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 60px;
+}
+
+.order-Total {
+  color: orangered;
+  font-weight: 900;
+}
